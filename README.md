@@ -85,6 +85,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  - Create SignUp user account
  - Implement Sign In User Api
  - Created Redux Store with userSlice;
+ - Implemented SignOut feature
+ - Validation
+ - Update Profile
+ - BugFix: Sign up user displayName and profile picture update
+ - BugFix: If the user is not logged in Redirect /browse to Login Page and vice versa
+ - Unscubscribe to the onAuthStateChanged callback.
+
+ - Fetch fromTMDB movies
+
 
 
  # Features
