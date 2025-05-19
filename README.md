@@ -69,44 +69,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
 # Netflix GPT
- - Created React App
- - Configured Tailwind CSS
- - Header
- - Routing
- - Login form
- - SignIn/Sign Up Form
- - Form Validation
- - useRef
- - Firebase Setup
- - Deploying our app to production
- - Create SignUp user account
- - Implement Sign In User Api
- - Created Redux Store with userSlice;
- - Implemented SignOut feature
- - Validation
- - Update Profile
- - BugFix: Sign up user displayName and profile picture update
- - BugFix: If the user is not logged in Redirect /browse to Login Page and vice versa
- - Unscubscribe to the onAuthStateChanged callback.
 
- - Fetch fromTMDB movies
+- Created React App
+- Configured Tailwind CSS
+- Header
+- Routing
+- Login form
+- SignIn/Sign Up Form
+- Form Validation
+- useRef
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp user account
+- Implement Sign In User Api
+- Created Redux Store with userSlice;
+- Implemented SignOut feature
+- Validation
+- Update Profile
+- BugFix: Sign up user displayName and profile picture update
+- BugFix: If the user is not logged in Redirect /browse to Login Page and vice versa
+- Unscubscribe to the onAuthStateChanged callback.
+- Add hardcoded value to the contsant file
+-
 
+- Fetch fromTMDB movies
 
+# Features
 
- # Features
-  - Login/SignUp Page
-      - Sign In/ Sign up Form
-      - redirect to Browse Page
-  -  Browse (after authentication)
-       - Header
-       - Main Movie
-           - Trailer in Background
-           - Title & Description
-           - Movie Suggestions
-               - MovieLists * N
-  - NetflixGPT
-          - Search Bar
-          - Movie Suggestions
+- Login/SignUp Page
+  - Sign In/ Sign up Form
+  - redirect to Browse Page
+- Browse (after authentication)
+  - Header
+  - Main Movie
+    - Trailer in Background
+    - Title & Description
+    - Movie Suggestions
+      - MovieLists \* N
+- NetflixGPT - Search Bar - Movie Suggestions
